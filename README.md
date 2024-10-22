@@ -1,14 +1,14 @@
 # DATE FORMAT PICKER
 This is a module for picking date format and input the date according to the format
 
-Prerequisites
+PREREQUISITES
 Flutter 3.16.5 • Dart 3.2.3
 
-Steps to run project
-Clone the repo
-Check for Flutter and Dart version
-Connect with emulator
-Run command on terminal: 1. Flutter clean 2. Flutter pub get 3. Flutter run
+STEPS TO RUN PROJECT: 
+1. Clone the repo
+2. Check for Flutter and Dart version
+3. Connect with emulator
+4. Run command on terminal: 1. Flutter clean 2. Flutter pub get 3. Flutter run
 
 FEATURES:
 1. Auto-Format Input:
@@ -30,3 +30,7 @@ If a drop-down input is used (for selecting a part of the date, like the month o
 The user can double-tap on specific parts of the date (e.g., the day, month, or year) to highlight or allow easy editing of just that part of the date.
 7. Full Deletion Behavior:
 On deleting the year, the separators should also be removed automatically as necessary. Similarly, the separators should be deleted when backspacing through the date (not left behind).make an application for this in fluitter
+
+![date_format_picker](https://github.com/user-attachments/assets/9026075f-de13-4083-bb4b-a8010436de11)
+
+
