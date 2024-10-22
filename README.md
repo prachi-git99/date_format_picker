@@ -10,6 +10,8 @@ STEPS TO RUN PROJECT:
 3. Connect with emulator
 4. Run command on terminal: 1. Flutter clean 2. Flutter pub get 3. Flutter run
 
+APK LINK: https://drive.google.com/drive/folders/1NGULCOJx50QwHnm9rG-pNGpheuyPXSfQ 
+
 FEATURES:
 1. Auto-Format Input:
 As the user enters a date in a TextFormField, the format should automatically insert slashes (/) or dashes (-) depending on the selected date format (e.g., dd/mm/yyyy or mm-dd-yyyy).
